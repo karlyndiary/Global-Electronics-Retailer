@@ -25,9 +25,9 @@ Insights and recommendations are provided on the following key areas :
 
 Detailed Resources: 
 
-- The Data Cleaning process utilized can be found [here](https://github.com/karlyndiary/Optimizing-Global-Electronics-Retailer-Sales-Insights/tree/main/%5B01%5D%20ETL). 
-- The SQL queries utilized to organize, and prepare data for the dashboard can be found [here](https://github.com/karlyndiary/Optimizing-Global-Electronics-Retailer-Sales-Insights/tree/main/%5B02%5D%20SQL). 
-- An interactive Excel dashboard can be downloaded [here](https://github.com/karlyndiary/Optimizing-Global-Electronics-Retailer-Sales-Insights/tree/main/%5B03%5D%20Excel%20Dashboard).
+- The Data Cleaning process utilized can be found [here](https://github.com/thedatanook/Optimizing-Global-Electronics-Retailer-Sales-Insights/tree/main/%5B01%5D%20ETL). 
+- The SQL queries utilized to organize, and prepare data for the dashboard can be found [here](https://github.com/thedatanook/Optimizing-Global-Electronics-Retailer-Sales-Insights/tree/main/%5B02%5D%20SQL). 
+- An interactive Excel dashboard can be downloaded [here](https://github.com/thedatanook/Optimizing-Global-Electronics-Retailer-Sales-Insights/tree/main/%5B03%5D%20Excel%20Dashboard).
 
 # Data Structure
 
@@ -41,7 +41,7 @@ Global Retailer Electronic's database structure as seen below consists of five t
 
 Revenue insights reveal that desktop PCs, particularly the WWI Desktop PC2.33 X2330 Black, dominate product sales, contributing significantly to overall revenue with minimal variation across colors. The computers category leads in both revenue ($19.3M) and profit ($12.28M), while games and toys represent the lowest revenue and profit ($724.83K and $396.67K, respectively), indicating a gap in demand for lower-priced products. Home appliances have the highest average order value at $1.84K, suggesting opportunities for strategies like premium product offerings or targeted marketing. The United States is the dominant market, contributing $29.87M in revenue, while France lags behind with $1.52M. 2019 marked the peak revenue year, with $18.26M in sales, but a sharp decline occurred in 2021 due to incomplete data and COVID-19 impacts.
 
-Below is the overview page from the Excel dashboard and more examples are included throughout the report. The interactive dashboard can be downloaded [here](https://github.com/karlyndiary/Optimizing-Global-Electronics-Retailer-Sales-Insights/tree/main/%5B03%5D%20Excel%20Dashboard).
+Below is the overview page from the Excel dashboard and more examples are included throughout the report. The interactive dashboard can be downloaded [here](https://github.com/thedatanook/Optimizing-Global-Electronics-Retailer-Sales-Insights/tree/main/%5B03%5D%20Excel%20Dashboard).
 
 ### Revenue Insights
 
